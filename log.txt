@@ -1,3 +1,15 @@
+commit af9b02b6fc5604c4087b96d00a21888adf94528b
+Author: nadiabixenman <nadiabixenman@mymail.mines.edu>
+Date:   Thu Feb 13 13:36:13 2020 -0700
+
+    Made kitty super polite
+
+commit 3f9418a17452cb343cb1358714ccd3b0353bb2d2
+Author: nadiabixenman <nadiabixenman@mymail.mines.edu>
+Date:   Thu Feb 13 13:35:03 2020 -0700
+
+    Added log.txt file
+
 commit 6ec96e45ef260b00d7d23497f3306943407bd498
 Author: nadiabixenman <nadiabixenman@mymail.mines.edu>
 Date:   Thu Feb 13 13:33:16 2020 -0700
