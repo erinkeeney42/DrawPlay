@@ -1,0 +1,35 @@
+commit 6ec96e45ef260b00d7d23497f3306943407bd498
+Author: nadiabixenman <nadiabixenman@mymail.mines.edu>
+Date:   Thu Feb 13 13:33:16 2020 -0700
+
+    Changed text color to red
+
+commit f447d757b121f1ef6016b8f35c37cd8abf198682
+Author: nadiabixenman <nadiabixenman@mymail.mines.edu>
+Date:   Thu Feb 13 13:31:19 2020 -0700
+
+    Changed eyes to blue
+
+commit 7e7261724290e81e0f175750818a2c4ca2cb0103
+Author: Erin Keeney <ekeeney@mines.edu>
+Date:   Thu Feb 13 13:17:19 2020 -0700
+
+    Changed the text that appears under the cat
+
+commit f4cbf4377c4cf88d41210119b9c60bedff390110
+Author: Erin Keeney <ekeeney@mines.edu>
+Date:   Thu Feb 13 13:11:03 2020 -0700
+
+    Changed the kitty to be orange
+
+commit 3b1cf69c07c1a6c85282ac261a893e874f2b72ab
+Author: Erin Keeney <ekeeney@mines.edu>
+Date:   Thu Feb 13 12:55:33 2020 -0700
+
+    Set this boi up!
+
+commit 66eb2a57a78bdbbd04780a2e062e2420de3a2643
+Author: erinkeeney42 <60047961+erinkeeney42@users.noreply.github.com>
+Date:   Thu Feb 13 12:35:54 2020 -0700
+
+    Initial commit
